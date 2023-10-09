@@ -1,0 +1,8 @@
+cn2an==0.5.22
+lxml==4.9.3
+proces==0.1.7
+PySide6==6.5.3
+PySide6-Addons==6.5.3
+PySide6-Essentials==6.5.3
+python-docx==0.8.11
+shiboken6==6.5.3
